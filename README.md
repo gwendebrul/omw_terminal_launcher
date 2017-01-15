@@ -1,7 +1,8 @@
 # Terminal launcher
 
 This applescript launches terminal and create a number of tabs and executes a number of commands on each tab.
-This was created because I daily open terminal  make 5 tabs and ssh into my server.
+This was created because I daily open terminal and make 5 tabs, each tab I ssh into my server and change the directory.
+SoI decided to automate this.
 
 ## Installation
 download and open this script in applescript editor.
