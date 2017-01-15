@@ -10,6 +10,6 @@ Change the variables at the beginning of the file.
 Don't change anything else in the code.
 Save it as an application and you're good to go.
 
-I used hotkey app for creating a schortcut, when I press F1 the script is executed.
+I used hotkey app for creating a shortcut, when I press F1 the script is executed.
 
 Enjoy!!
