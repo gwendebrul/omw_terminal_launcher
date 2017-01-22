@@ -7,7 +7,7 @@ So I decided to automate this.
 ## Installation
 1. download and open this script in applescript editor.
 2. Change the variables at the beginning of the file.
-3. Don't change anything else in the code.
+3. You don't have to change anything else.
 4. Save it as an application and you're good to go.
 
 I used hotkey app for creating a shortcut, when I press F1 the script is executed.
